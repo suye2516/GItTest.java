@@ -18,5 +18,7 @@ public class GItTest {
         System.out.println("push 推送本地库到远程库");
         System.out.println("push 推送本地库到远程库");
         System.out.println("push 推送本地库到远程库");
+        System.out.println("pull 推送本地库到远程库");
+        
     }
 }
